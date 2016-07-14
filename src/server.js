@@ -1,5 +1,3 @@
-'use strict';
-
 import { createServer } from 'http'
 import { createStore } from 'redux'
 import { parse as parseURL } from 'url'
